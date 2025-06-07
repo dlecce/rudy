@@ -1,0 +1,24 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+
+section {
+  scroll-margin-top: 80px;
+  margin-bottom: 2rem;
+}
+
+main.container {
+  padding-top: 20px;
+}
+
+@import 'yet-another-react-lightbox/styles.css';
+
+.yarl__navigation_prev,
+.yarl__navigation_next {
+  display: none !important;
+}
