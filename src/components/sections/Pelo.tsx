@@ -6,7 +6,7 @@ export default function PeloSection() {
             <h2>🧼 Pelo</h2>
             <ul>
                 <li>Rudy perde molti peli → spazzolarlo se volete.</li>
-                <li><b>Spazzole</b> sulla <ImagePopup imageUrl="/img/spazzole.jpg">mensola della libreria</ImagePopup> in soggiorno:</li>
+                <li><b>Spazzole</b> sulla <ImagePopup imageUrl="/rudy/img/spazzole.jpg">mensola della libreria</ImagePopup> in soggiorno:</li>
                 <ul>
                     <li>Manico azzurro: per Rudy.</li>
                     <li>Adesiva: per vestiti.</li>

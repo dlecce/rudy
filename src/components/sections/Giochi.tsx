@@ -5,7 +5,7 @@ export default function GiochiSection() {
         <section id="giochi">
             <h2>🧶 Giochi</h2>
             <ul>
-                <li><b>Cordino rosso</b> sulla <ImagePopup imageUrl="/img/cordino.jpg">libreria in soggiorno</ImagePopup>: è un guinzaglio ma Rudy ci gioca.</li>
+                <li><b>Cordino rosso</b> sulla <ImagePopup imageUrl="/rudy/img/cordino.jpg">libreria in soggiorno</ImagePopup>: è un guinzaglio ma Rudy ci gioca.</li>
                 <li>Agitarlo tenendolo dalla parte metallica.</li>
             </ul>
         </section>
